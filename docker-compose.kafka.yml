@@ -1,0 +1,5 @@
+# docker-compose.kafka.yml
+version: "3"
+
+services:
+  # ... zookeeper and broker as before ...
